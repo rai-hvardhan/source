@@ -1,0 +1,101 @@
+Data Modeling & Design
+Hadoop / Big Data & its components 
+Java, sql
+AWS
+nosql
+Python, flask 
+Redis 
+Hands on experience on Redshift, MySQL, Elastic Search, Cassandra etc.
+Proven experience in managing the Data Lake using Parquet, Object Storage, ORC etc.
+Handling Data streaming using Kafka, Spark streaming etc.
+Expertise in query engines like Presto, Athena, Impala, BigQuery etc.
+A solid base in data technologies like Warehousing, ETL, BI
+Working experience on any of the BI tools like Power BI,Tableau, Sisense etc.
+Good experience on AWS services like Ec2, EMR, RDS etc.
+
+Very strong experience in SQL, dimensional modeling, supporting data warehouse, scaling and optimizing, performance tuning and ETL pipelines
+Good knowledge of reporting tools such as MicroStrategy, Cognos, Tableau with understanding of different types of reporting, storytelling using visualization
+Deep understanding of relational as well as big data setup, Experience with cloud platforms such as Databricks, Snowflake, ETL tools (eg Informatica), Hive, Presto, Dimensional Modeling.
+Proficiency with programming languages (e.g. Python)
+Ability to work on multiple areas like Data pipeline ETL, Data modeling & design, writing complex SQL queries etc.
+Passionate about various technologies including but not limited to SQL/No SQL/MPP databases etc.
+
+6+ years of data engineering experience in traditional data warehousing, ETL and/or big data pipeline & processing environments
+Strong CS fundamentals (algorithms and data structures) and problem-solving skills 
+Experience in large-scale machine learning backend; familiar with RPC frameworks and key-value storage systems. 
+Experience dealing with concurrent systems and architectures. 
+Experience with standard deep learning frameworks. 
+Strong data modeling and SQL experience
+Strong programming experience with Python, Scala and/or Java
+Experience with big data processing technologies (Spark, Storm, Kafka, Flume, Pig, Hive, Sqoop, Hadoop/MapReduce, etc.)
+Experience with columnar storage and massively parallel processing data warehouses (Greenplum, Snowflake, Redshift preferred)
+Hands-on experience with building CI/CO
+Experience modeling and querying for NoSQL databases (Cassandra, HBase, Mongo)
+Experience working within agile software engineering methodologies
+
+7-10+ years' experience designing and implementing reporting solutions including interactive dashboards preferably in a consulting role; less experience considered for exceptional performers
+Experience leading / supporting an analytics transformation with demonstrated results simplifying end-user experience by implementing self-service reporting solutions
+Ability to translate reporting needs into user-centric dashboards including UX design experience and deep understanding of user-centered design (UCD)
+Tableau experience is preferred (Qualified Associate or Certified Professional), but mastery of similar systems with transferrable skillsets (Alteryx, PowerBI, R, Python, etc.) are acceptable.
+Knowledge and understanding of implementing end-to-end security solutions within tableau server and leveraging / designing necessary database-level security
+Proficiency in SQL to access data warehouses including select statements and joins
+Experience developing and mentor individuals analytics skillset, enabling them in providing data-driven insights to the business
+Experience working with Agile development methodologies
+Basic finance knowledge of financials statements including P&L, Balance Sheet, etc. is preferred.
+Proven ability to work effectively in a global environment with people at all levels, preferably in a professional services organization
+
+6-10 years of experience in data integration systems design and implementation using Informatica (Informatica BDM preferred)
+
+Experience in designing, developing, and testing ETL solutions working with Data warehousing
+
+Strong analytical skills for problem solving Exposure of interacting with customers, understanding & working on stated requirements
+
+Experience on AWS will be a plus
+
+Experience on Google Cloud Platform, Python, and Big Query, Google Data Studio. Must have worked on GCP real-time implementation
+Experience of working with multiple projects/tasks and supporting multiple teams within a business.
+Strong 8-10 years of experience in Design, Development of Big Data Infrastructure solution with experience in Data Engineering, Data Analysis, Data modeling, Data Warehouse, Data security, ETL.
+Experience in Google Cloud Platform modules like Dataproc, Dataflow, Composer, BigQuery, BigTable, GCS, and various operators in Airflow DAGs.
+Experience in configuration and custom development with hands-on experience in Python, Shell Scripting, SQL, Big Query, and development of custom UDFs.
+Experience in designing solutions with using Compute Engine, application engine and Kubernetes engine, Cloud Data Flow, Cloud Pub OR Sub, Cloud BigTable
+
+
+
+Solid background on building data pipelines to produce queryable datasets
+Excellent understanding of python data libraries like NumPy, Scikit-Learn etc.
+Basic knowledge on Containerization and Orchestration like Docker, Kubernetes
+
+Strong programming flair in trending languages, including Python, Java, C++, Scala, Ruby, etc.
+Advanced working knowledge of SQL, along with experience in working with relational databases.
+Proficiency in working with a wide variety of databases.
+Experience in building and optimizing Big Data pipelines and architectures.
+Experience in performing root cause analysis on internal/external data and processes to find solutions for specific business issues and identify improvement opportunities.
+Experience in working with Big Data platforms like Hadoop, Spark, Kafka, Flume, Pig, Hive, etc.
+Experience in handling data pipeline and workflow management tools like Azkaban, Luigi, Airflow, etc.
+Experience in handling stream-processing systems such as Storm and Spark-Streaming.
+Building and designing large-scale applications
+Database architecture and data warehousing
+Data modeling and mining
+Statistical modeling and regression analysis
+Distributed computing and splitting algorithms to yield predictive accuracy
+Proficiency in languages, especially R, SAS, Python, C/C++, Ruby Perl, Java, and MatLab
+Database solution languages, especially SQL, as well as Cassandra, and Bigtable
+Hadoop-based analytics, such as HBase, Hive, Pig, and MapReduce
+Operating systems, especially UNIX, Linux, and Solaris
+Machine learning, including AForge.NET and Scikit-learn
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+Strong project management and organizational skills.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+We are looking for a candidate with 5+ years of experience in a Data Engineer role, who has attained a Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field. They should also have experience using the following software/tools:
+Experience with big data tools: Hadoop, Spark, Kafka, etc.
+Experience with relational SQL and NoSQL databases, including Postgres and Cassandra.
+Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc.
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift
+Experience with stream-processing systems: Storm, Spark-Streaming, etc.
+Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
